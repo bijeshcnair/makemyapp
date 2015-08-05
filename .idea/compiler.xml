@@ -25,5 +25,8 @@
         <module name="dropWizardTest" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dropWizardTest" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
